@@ -11,3 +11,4 @@ varC = temp
 console.log("A: " + varA)
 console.log("B: " + varB)
 console.log("C: " + varC)
+
